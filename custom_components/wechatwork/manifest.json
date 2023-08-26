@@ -1,0 +1,9 @@
+{
+  "domain": "wechatwork",
+  "name": "wechatwork",
+  "documentation": "企业微信推送",
+  "requirements": [],
+  "version": "v1.0.0",
+  "dependencies": [],
+  "codeowners": ["chiunownow@gmail.com"]
+}
